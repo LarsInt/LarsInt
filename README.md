@@ -1,4 +1,4 @@
-// Hello, I like to troubleshoot things \\
+|| Hello, I like to troubleshoot things ||
 
 <!---
 LarsInt/LarsInt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
